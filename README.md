@@ -1,2 +1,2 @@
 # autotest
-sam ding wa
+some exercise for C learning
